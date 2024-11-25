@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/h16/exam/e/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -std=gnu++11 -o CMakeFiles/jk.dir/jk.cpp.o -c /home/h16/exam/e/jk.cpp",
+  "file": "/home/h16/exam/e/jk.cpp"
+}
+]

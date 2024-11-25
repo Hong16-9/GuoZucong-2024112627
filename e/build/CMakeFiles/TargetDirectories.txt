@@ -1,0 +1,3 @@
+/home/h16/exam/e/build/CMakeFiles/jk.dir
+/home/h16/exam/e/build/CMakeFiles/edit_cache.dir
+/home/h16/exam/e/build/CMakeFiles/rebuild_cache.dir
